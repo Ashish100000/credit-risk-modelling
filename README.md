@@ -18,7 +18,10 @@ The objective is to build a model that estimates default probability and categor
 
 ## Dataset
 
-- **Source:** Lending Club historical loan data.
+## Dataset
+
+- **Source:** [Lending Club Historical Loan Data – Kaggle](https://www.kaggle.com/datasets/wordsforthewise/lending-club?resource=download)
+- **Download Instructions:** Open the Kaggle link, scroll down to the dataset files, and download `accepted_2007_to_2018Q4.csv.gz` (approximately 392.58 MB).
 - **File:** `accepted_2007_to_2018Q4.csv.gz`
 - **Target variable:** `loan_status_flag`
 - **Target definition:**
